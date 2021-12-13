@@ -1,0 +1,21 @@
+[main] INFO  login  - ******launching browser***********
+[main] INFO  login  - ******launching url***********
+[main] INFO  login  - ******Enter email&password ***********
+[main] INFO  login  - ****** click on loginButton***********
+[main] INFO  login  - ******Both title matched***********
+[main] INFO  login  - ******click on logout button***********
+[main] INFO  login  - ******Both title matched***********
+[main] INFO  login  - ******close the browser***********
+[main] INFO  login  - ******launching browser***********
+[main] INFO  login  - ******launching url***********
+[main] INFO  login  - ******Enter email&password ***********
+[main] INFO  login  - ****** click on loginButton***********
+[main] INFO  login  - ******Both title matched***********
+[main] INFO  login  - ******click on logout button***********
+[main] INFO  login  - ******Both title matched***********
+[main] INFO  login  - ******close the browser***********
+[main] INFO  login  - ******launching browser***********
+[main] INFO  login  - ******launching url***********
+[main] INFO  login  - ******Enter email&password ***********
+[main] INFO  login  - ****** click on loginButton***********
+[main] INFO  login  - ******both title not matched***********
